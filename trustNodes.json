@@ -62,6 +62,12 @@
         "nodeDesc": "The Blockchain and Cryptocurrency PIC will bring crypto-entrepreneurs and thought leaders to campus to discuss how cryptocurrencies are transforming policy fields as diverse as financial regulation, international development, and national security.",
 
         "accountName": "gxharvard"
+	"location": {
+		    "city": "Boston",
+		    "country": "America",
+		    "longitude": 71.05,
+		    "latitude": 42.19
+	    }
     },
     {
         "nodeName": "GXCLaoMao",
